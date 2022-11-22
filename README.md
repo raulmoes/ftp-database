@@ -1,15 +1,4 @@
-<p align="center"><a href="https://github.com/crazy-max/docker-pure-ftpd" target="_blank"><img height="128" src="https://raw.githubusercontent.com/crazy-max/docker-pure-ftpd/master/.github/docker-pure-ftpd.jpg"></a></p>
 
-<p align="center">
-  <a href="https://hub.docker.com/r/crazymax/pure-ftpd/tags?page=1&ordering=last_updated"><img src="https://img.shields.io/github/v/tag/crazy-max/docker-pure-ftpd?label=version&style=flat-square" alt="Latest Version"></a>
-  <a href="https://github.com/crazy-max/docker-pure-ftpd/actions?workflow=build"><img src="https://img.shields.io/github/workflow/status/crazy-max/docker-pure-ftpd/build?label=build&logo=github&style=flat-square" alt="Build Status"></a>
-  <a href="https://hub.docker.com/r/crazymax/pure-ftpd/"><img src="https://img.shields.io/docker/stars/crazymax/pure-ftpd.svg?style=flat-square&logo=docker" alt="Docker Stars"></a>
-  <a href="https://hub.docker.com/r/crazymax/pure-ftpd/"><img src="https://img.shields.io/docker/pulls/crazymax/pure-ftpd.svg?style=flat-square&logo=docker" alt="Docker Pulls"></a>
-  <br /><a href="https://github.com/sponsors/crazy-max"><img src="https://img.shields.io/badge/sponsor-crazy--max-181717.svg?logo=github&style=flat-square" alt="Become a sponsor"></a>
-  <a href="https://www.paypal.me/crazyws"><img src="https://img.shields.io/badge/donate-paypal-00457c.svg?logo=paypal&style=flat-square" alt="Donate Paypal"></a>
-</p>
-
-## About
 
 [Pure-FTPd](https://www.pureftpd.org/) Docker image based on Alpine Linux with MySQL, PostgreSQL and LDAP support.<br />
 If you are interested, [check out](https://hub.docker.com/r/crazymax/) my other Docker images!
